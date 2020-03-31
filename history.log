@@ -1,0 +1,6 @@
+2020-03-31 19:43:58 [main] geolocator.GeoLocator.getGeoLocation()
+DEBUG: ipAddrOrHost: null
+2020-03-31 19:43:58 [main] geolocator.GeoLocator.getGeoLocation()
+DEBUG: Url: http://ip-api.com/json/
+2020-03-31 19:43:58 [main] geolocator.GeoLocator.main()
+INFO: GeoLocation{as='AS42841 ANTIK Telecom s.r.o', city='Humenné', country='Slovakia', countryCode='SK', isp='Antik Network', lat=48.9371, lon=21.9163, org='', query='88.212.37.184', region='PV', regionName='Presov', timezone='Europe/Bratislava', zip='066 01'}
